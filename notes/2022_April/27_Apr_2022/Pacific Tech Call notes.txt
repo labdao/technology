@@ -1,0 +1,56 @@
+pacific tech dao
+
+- how to get scientists onto github
+- using github for documents-only proposals etc
+- need exemplary processes for bringing projects into the openlab ecosystem
+    - code design + architecture, testing
+    - documentation
+    - availability, installation
+    - resilience (stays available after other ppl leave)
+- need a way to create opportunities + guide contributors
+    - create guide post projects
+- Rik: "information architecture is the primary thing"
+    - need focus group between tech and science group
+    - tech group is rapidly developing tons of things, in a non-decentralized way
+    - need coherent plan for future, but need to bring everyone with us, scientists need to know what's going on and be involved
+    - coordination meeting between the groups
+    - Proposals system; how do you dissent, discuss about plans so everyone is involved? (we don't have that)
+    - Open Source <> DAO needs to converge before making more advances in the tech side
+    - MVP is just to demonstrate vision, but soon after we need processes in place for ppl to participate
+    - *** build processes for voting on CLI, none of this is communicated right now
+
+- Data encryption: 
+    - Rik: needs to serve encryption, for compliance
+    - need a use case first though
+    - protocol design should not contain metadata that might need to be encrypted later
+        - but does need top level data identifiers
+        - need to be able to connect to encrypted data as a second layer ("nested space")
+
+- CLI
+    - operational
+    - web3 side is operational too
+    - the UX for CLI is still being figured out / polished
+    - now allowing ppl to contribute to CLI, documentation being built
+    - *** Jesse + Aakash figuring out the CLI and writing down documentation; what does it look like + feel like, into the "final product"
+    - "ready soon"
+    - ppl can just fire off a command; the Vercel CLI of bioinformatics
+
+
+- how to get people to contribute?
+    - "green-lit pipelines"
+    - AlphaFold, RNAseq implemented and well-documented
+        - RNAseq illumina aligning short reads
+
+- Preregistration closed alpha
+    - get Alpha ppl onboarded; they know what's going on
+    - Initially 10 ppl
+
+- metadata
+    - compatibility with biodata, opensea
+    - what else in the future; reverse engineer biocompute data
+    - IPFS metadata should be a "go to IPFS to find the data" not the data itself
+    - minimum set of top-level keys
+
+- github repo to archive notes from
+    - hackmd, discord
+    - notion isn't an archiving solution (can't back them up)
